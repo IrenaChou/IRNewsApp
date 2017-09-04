@@ -21,5 +21,4 @@ export default class IRNewsNewApp extends Component {
     }
 }
 
-
 AppRegistry.registerComponent('IRNewsNewApp', () => IRNewsNewApp);
